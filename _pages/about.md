@@ -14,12 +14,9 @@ I am a dedicated physicist with a strong foundation in theoretical and computati
 My Bachelor’s thesis focused on the impact of measurements—both regular projective and Bell-type—on the dynamics of quantum systems, with a particular emphasis on the dynamics of the Heisenberg spin chain. Building on this research, I am currently working on implementing neural networks to analyze and extract deeper insights from simulation results, bridging modern machine learning techniques with quantum physics.
 
 Beyond my primary research, I have actively participated in a number of additional projects that expanded my experience across physics and computation. One project studied the percolation threshold in two-dimensional networks, exploring critical phenomena in statistical systems. I have also taken part in several hackathons and teamwork challenges, including:
-
-a hybrid classical–quantum optimization algorithms challenge,
-
-a quantum error mitigation project, and
-
-an innovative quantum games hackathon where my team developed a quantum-inspired Sudoku solver—and won first place.
+ - a hybrid classical–quantum optimization algorithms challenge,
+ - a quantum error mitigation project, and
+ - an innovative quantum games hackathon where my team developed a quantum-inspired Sudoku solver—and won first place.
 
 Conferences and Scientific Engagement
 
